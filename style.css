@@ -1,0 +1,12 @@
+body{
+    background: rgb(68,56,193);
+    background: radial-gradient(circle, rgba(68,56,193,1) 0%, rgba(9,121,40,1) 35%, rgb(0, 190, 133) 100%);
+}
+p{
+ align-self: center; 
+ color:red;
+}
+h1{
+ align-self: center;  
+ color:red;
+}
